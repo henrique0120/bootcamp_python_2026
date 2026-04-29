@@ -1,5 +1,5 @@
 import art
-# print(art.logo)
+print(art.logo)
 
 first = int(input("Type the first number: "))
 operator = str(input("\n+\n-\n*\n/\nPick an operator: "))
